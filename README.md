@@ -84,8 +84,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/MohamedFaroukAbdelazeem/MohamedFaroukAbdelazeem/output/snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/MohamedFaroukAbdelazeem/MohamedFaroukAbdelazeem/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">

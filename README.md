@@ -1,5 +1,7 @@
 <h2 align="left">Hello! 👋 My name is Mohamed Farouk, and I am a Software Engineer.</h2>
 
+[![Mohamed Farouk's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10450803?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/10450803 "Mohamed Farouk's Stack Overflow Reputation")
+
 <br clear="both">
 
 <picture>
